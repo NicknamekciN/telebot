@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NicknamekciN/telebot/issues"
   },
-  "homepage": "https://github.com/NicknamekciN/telebot#readme"
+  "homepage": "https://github.com/NicknamekciN/telebot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
 }
